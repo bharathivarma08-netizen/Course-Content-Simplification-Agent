@@ -1,0 +1,9 @@
+DBMS stands for Database Management System.
+
+It is software used to store, manage, and retrieve data efficiently.
+
+Advantages:
+- Reduces data redundancy
+- Improves data consistency
+- Provides security
+- Supports multiple users

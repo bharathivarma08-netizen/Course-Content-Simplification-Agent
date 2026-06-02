@@ -1,0 +1,10 @@
+An Operating System is system software that manages computer hardware and software resources. It acts as an interface between the user and the computer hardware.
+
+Main functions:
+- Process management
+- Memory management
+- File management
+- Device management
+
+Examples:
+Windows, Linux, macOS, Android
