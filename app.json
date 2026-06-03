@@ -1,0 +1,14 @@
+{
+  "name": "EduBot IBM Granite",
+  "description": "AI-powered adaptive learning platform using IBM Granite, Watsonx.ai, RAG, Streamlit, and ChromaDB.",
+  "keywords": [
+    "IBM Granite",
+    "Watsonx",
+    "RAG",
+    "Streamlit",
+    "AI Education"
+  ],
+  "repository": "https://github.com/bharathivarma08-netizen/Course-Content-Simplification-Agent.git",
+  "success_url": "/",
+  "stack": "container"
+}
